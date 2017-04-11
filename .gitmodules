@@ -1,0 +1,21 @@
+[submodule "app/libs/boost-geometry"]
+	path = app/libs/boost-geometry
+	url = https://github.com/boostorg/geometry.git
+[submodule "app/libs/boost-mpl"]
+	path = app/libs/boost-mpl
+	url = https://github.com/boostorg/mpl.git
+[submodule "app/libs/boost-config"]
+	path = app/libs/boost-config
+	url = https://github.com/boostorg/config.git
+[submodule "app/libs/boost-preprocessor"]
+	path = app/libs/boost-preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+[submodule "app/libs/boost-range"]
+	path = app/libs/boost-range
+	url = https://github.com/boostorg/range.git
+[submodule "app/libs/boost-type_traits"]
+	path = app/libs/boost-type_traits
+	url = https://github.com/boostorg/type_traits.git
+[submodule "app/libs/boost-iterator"]
+	path = app/libs/boost-iterator
+	url = https://github.com/boostorg/iterator.git
